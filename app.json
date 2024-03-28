@@ -1,8 +1,8 @@
 { 
-  "name": "KING-MD",
+  "name": "FADI-MD 2.0",
   "description": "A Whatsapp md bot built By Naveed to make experience better",
   "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "FADI-MD 2.0", "KING","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -67,7 +67,7 @@
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*KING-MD*"
+	    "value": "*FADI-MD 2.0*"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -83,7 +83,7 @@
        "value": "92Xxxxxxxx"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to FADI-MD 2.0 Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -113,7 +113,7 @@
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "king-mdbot"
+    "value": "FADI-MD 2.0bot"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
