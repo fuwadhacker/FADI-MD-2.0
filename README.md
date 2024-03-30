@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/fuwadhacker"><img title="Author" src="https://img.shields.io/badge/FADI_MD2.0-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mrfadi316"><img title="Author" src="https://img.shields.io/badge/FADI_MD2.0-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
@@ -23,20 +23,20 @@
 
 
    <p align="left">
-  <a href="https://github.com/fuwadhacker/FADI-MD2.0/fork">
-    <img src="https://img.shields.io/github/forks/fuwadhacker/FADI-MD2.0?label=Fork&style=social">
+  <a href="https://github.com/mrfadi316/FADI-MD2.0/fork">
+    <img src="https://img.shields.io/github/forks/mrfadi316/FADI-MD2.0?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/fuwadhacker/FADI-MD2.0/stargazers">
+  <a href="https://github.com/mrfadi316/FADI-MD2.0/stargazers">
     <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
       
   
  
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="mrfadi316 :: Visitor's Count" /></p>
 <p align="center">
  <a href="https://mrfadihacker.blogspot.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/ Visit Website -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="Website" src="https://img.shields.io/badge/ Visit Website -25D366?style=for-the-badge&logo=wwebsite&logoColor=white" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 
 ## 1 *`⨷ FORK THIS REPO`*
-<a href='https://github.com/fuwadhacker/FADI-MD2.0/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/mrfadi316/FADI-MD2.0/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ## 2 *`⨷ SCAN QR`*
 <a href='https://king-md-qr-genrator.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
